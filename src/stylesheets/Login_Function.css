@@ -1,0 +1,35 @@
+.Login_Password {
+    display: inline-block;
+}
+
+.Login_Email {
+    display: inline-block;
+}
+
+.Login_Function {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.Login_Button {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.LoginErrorMessage {
+    display: block;
+}
+
+.Login_Input {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}

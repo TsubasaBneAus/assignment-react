@@ -1,0 +1,35 @@
+.Navigation {
+    background-color: rgb(87, 136, 85);
+  }
+
+  .Title {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+    margin-left: 20px;
+    width: 350px;
+    height: 45px
+  }
+
+  nav {
+    display: inline-block;
+    text-align: right;
+    width: calc(100% - 370px);
+  }
+
+  nav ul {
+    padding-right: 40px;
+  }
+
+  nav ul li {
+    display: inline-block;
+  }
+
+
+  nav ul li a {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+    display: block;
+    padding: 10px 15px;
+  }

@@ -1,0 +1,11 @@
+.Logout {
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 50px;
+  margin: 0px;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  -webkit-transform : translate(-50%,-50%);
+  transform : translate(-50%,-50%);
+}

@@ -1,0 +1,20 @@
+.Footer {
+    background-color: rgb(33, 33, 33);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px
+}
+
+.FooterMessage {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+    display: inline-block;
+}
+
+.Image_URL {
+    color: rgb(0, 238, 255);
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}

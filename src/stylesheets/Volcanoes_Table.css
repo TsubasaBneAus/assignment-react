@@ -1,0 +1,31 @@
+.Num_Volcanoes {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+}
+
+.Select_Country {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-left: 20px;
+    display: flex;
+}
+
+.Search_Columns {
+    padding-right: 10px;
+    margin: 0px;
+}
+
+.Selection_Box {
+    margin-right: 10px;
+}
+
+.ag-theme-balham {
+    height: 300px;
+    width: 600px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}

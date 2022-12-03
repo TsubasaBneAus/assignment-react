@@ -1,0 +1,33 @@
+.Details {
+    padding-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Description {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 40px;
+}
+
+.Name {
+    font-size: 30px;
+}
+
+.Button {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.BarDiv {
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+
+.Bar {
+    background-color: white;
+}
